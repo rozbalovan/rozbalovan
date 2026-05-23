@@ -12,6 +12,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/rozbalovan)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rozbalovan)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rozbalovan)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://dmytro-belilovskiy.surge.sh)
 
 </div>
 
@@ -96,6 +97,8 @@ Digital entrepreneur building things that generate value. From trading bots to c
   **Reddit:** [u/rozbalovan](https://reddit.com/user/rozbalovan)
   
   **Telegram:** [@rozbalovan](https://t.me/rozbalovan)
+  
+  **Website:** [dmytro-belilovskiy.surge.sh](https://dmytro-belilovskiy.surge.sh)
   
   **Email:** onlykniks@gmail.com
 
