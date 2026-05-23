@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rozbalovan&fontSize=60&fontAlignY=35" width="100%"/>
+  <img src="https://raw.githubusercontent.com/rozbalovan/rozbalovan/main/profile-pic.png" width="180" height="180" style="border-radius: 50%; border: 3px solid #d4a843;" alt="Rozbalovan"/>
 </div>
 
 <h1 align="center">🚀 Rozbalovan</h1>
